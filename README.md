@@ -7,7 +7,7 @@
   <a href="https://github.com/termuxprofessor">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/termuxprofessor/Telegram-Scraper-Adder">
+  <a href="https://github.com/Lollydarz/Telegram-Scraper-Adder">
     <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
   </a>
 </p>
